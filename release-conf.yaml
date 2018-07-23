@@ -1,0 +1,3 @@
+python_versions:
+  - 3
+version_path: __version__.py
