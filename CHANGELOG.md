@@ -1,3 +1,7 @@
+# 1.0.1
+
+* Add setup.py
+
 # 0.0.2
 
 * Create release-conf.yaml
