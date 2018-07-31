@@ -2,7 +2,7 @@
 
 * Add setup.py
 
-# 0.0.2
+# 0.0.3
 
 * Create release-conf.yaml
 * test
