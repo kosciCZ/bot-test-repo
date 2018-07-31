@@ -1,3 +1,8 @@
+# 1.0.6
+
+* Add __version__
+* Update setup.py
+
 # 1.0.5
 
 No changelog provided
