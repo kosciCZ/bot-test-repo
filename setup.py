@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
     name="bot-test-repo",
-    version="1.0.4",
+    version="1.0.5",
     author="Jan Koscielniak",
     author_email="jkosciel@redhat.com",
     description="A small example package",
