@@ -1,3 +1,6 @@
+# 1.0.7
+
+No changelog provided
 # 1.0.6
 
 * Add __version__
