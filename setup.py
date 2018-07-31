@@ -1,8 +1,10 @@
 import setuptools
 
+__version__ = '1.0.5'
+
 setuptools.setup(
     name="bot-test-repo",
-    version="1.0.5",
+    version=__version__,
     author="Jan Koscielniak",
     author_email="jkosciel@redhat.com",
     description="A small example package",
