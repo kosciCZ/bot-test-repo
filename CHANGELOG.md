@@ -1,3 +1,10 @@
+# 1.0.9
+
+* Test commit 4
+* Test commit 2
+* Test commit 2
+* Test commit
+
 # 1.0.8
 
 * Update release-conf.yaml
