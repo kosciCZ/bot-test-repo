@@ -1,6 +1,6 @@
 import setuptools
 
-__version__ = '1.0.9'
+__version__ = '1.0.11'
 
 setuptools.setup(
     name="bot-test-repo",
